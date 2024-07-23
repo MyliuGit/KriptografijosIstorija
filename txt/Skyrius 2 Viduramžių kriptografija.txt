@@ -1,0 +1,8 @@
+Skyrius 2: Viduramžių kriptografija
+Apžvalga:
+Viduramžiais, su raštingumo plitimu ir valstybių formavimusi, kriptografija tapo svarbi diplomatijoje ir karo strategijoje.
+
+Pagrindiniai momentai:
+
+Alberti diskas – sukurtas Leon Battista Alberti, laikomas pirmuoju tikru mechaniniu šifravimo įrenginiu.
+Vigenère šifras – sudėtingesnis polialfabetinis šifras, kurį ilgą laiką laikė nepažeidžiamu.
