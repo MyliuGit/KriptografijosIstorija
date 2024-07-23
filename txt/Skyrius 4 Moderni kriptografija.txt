@@ -1,0 +1,8 @@
+Skyrius 4: Moderni kriptografija
+Apžvalga:
+Šiuolaikinė kriptografija apima tiek klasikinę simetrinę kriptografiją, tiek modernią asimetrinę kriptografiją, kuri leidžia saugius sandorius ir komunikaciją internete.
+
+Pagrindiniai momentai:
+
+RSA algoritmas – pirmasis viešai prieinamas asimetrinio šifravimo algoritmas.
+Blockchain ir kriptovaliutos – naujausios kriptografijos aplikacijos, keičiančios mūsų supratimą apie pinigus ir sandorius internete.

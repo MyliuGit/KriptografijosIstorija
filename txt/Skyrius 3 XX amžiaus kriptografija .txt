@@ -1,0 +1,8 @@
+Skyrius 3: XX amžiaus kriptografija ir jos vaidmuo karuose
+Apžvalga:
+Dvi pasaulio karai buvo kriptografijos vystymosi aukso amžius, kai abiejų konfliktų šalys intensyviai naudojo šifrus ir kodo laužytojus.
+
+Pagrindiniai momentai:
+
+Enigma mašina – Vokietijos kariuomenės naudota mašina, kuri buvo pagrindinis kriptografijos įrankis Antrojo pasaulinio karo metu.
+Alan Turing – matematikas, kuris sukūrė mašiną, galinčią laužyti Enigma kodus, žymiai prisidėjo prie karo eigų pakeitimo.

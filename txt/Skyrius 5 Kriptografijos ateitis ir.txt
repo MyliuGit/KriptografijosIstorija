@@ -1,0 +1,8 @@
+Skyrius 5: Kriptografijos ateitis ir iššūkiai
+Apžvalga:
+Naujos technologijos, tokios kaip kvantiniai kompiuteriai, žada pakeisti kriptografijos peizažą, kurdamos tiek naujas šifravimo galimybes, tiek grėsmes esamoms technologijoms.
+
+Pagrindiniai momentai:
+
+Kvantinė kriptografija – naudoja kvantinius mechanizmus, kad pasiūlytų naują saugumo lygį, kurį praktiškai neįmanoma pažeisti naudojant tradicinius metodus.
+Privatumo ir saugumo iššūkiai – kaip balansuoti tarp saugumo ir vartotojų privatumo interneto eroje.
