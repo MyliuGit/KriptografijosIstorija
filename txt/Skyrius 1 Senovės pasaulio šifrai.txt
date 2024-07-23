@@ -1,0 +1,8 @@
+Skyrius 1: Senovės pasaulio šifrai
+Apžvalga:
+Nuo pat seniausių laikų žmonės naudojo slaptus kodus ir šifrus, kad saugotų savo žinias ir paslaptis. Senovės Egipte, Grėtijoje ir Romoje kriptografija buvo naudojama kariniais tikslais ir politinėje komunikacijoje.
+
+Pagrindiniai momentai:
+
+Egipto hieroglifai – nors tai ne visada buvo naudojama kaip kriptografija, kai kuriuos hieroglifus tik iniciuoti žmonės galėjo skaityti ir suprasti.
+Skitalė – viena seniausių žinomų šifravimo priemonių, naudota senovės Graikijoje. Tai buvo medinė ritė, ant kurios rašant žodžiai būdavo užšifruojami.
